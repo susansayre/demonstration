@@ -1,5 +1,5 @@
 # demonstration
-A repo to illustrate some git basics
+A repo to illustrate some git basics like auto-merging.
 
 A change made on GitHub website
 
